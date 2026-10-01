@@ -1,0 +1,23 @@
+# Secretos
+.env
+*.pem
+
+# Python / Django
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+staticfiles/
+media/
+db.sqlite3
+
+# Node / Vite
+node_modules/
+frontend/dist/
+npm-debug.log*
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
